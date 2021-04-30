@@ -30,11 +30,11 @@ function draw() {
 
 function drawWords(x) {
   fill(192);
-  text('recomendado uso de fones de ouvidos', x, 80);
+  text(' ', x, 80);
 
   fill(128);
-  text('uso recomendado de auriculares', x, 150);
+  text(' ', x, 150);
 
   fill(64);
-  text('recommended use of headphones', x, 220);
+  text(' ', x, 220);
 }
